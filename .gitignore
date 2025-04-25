@@ -1,0 +1,75 @@
+# Build results
+bin/
+obj/
+
+# User-specific files
+*.user
+*.userosscache
+*.suo
+*.sln.docstates
+
+# Visual Studio Code settings
+.vscode/
+
+# Rider settings
+.idea/
+
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+# Publish output
+publish/
+out/
+
+# .NET Core generated files
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# NuGet
+*.nupkg
+packages/
+.nuget/
+
+# Entity Framework Migrations
+Migrations/
+
+# Logs
+*.log
+
+# Resharper
+_ReSharper*/
+*.[Rr]e[Ss]harper
+*.DotSettings.user
+
+# Visual Studio for Mac
+*.pidb
+*.userprefs
+
+# Templating engine cache
+~$*
+
+# JetBrains Rider
+.idea/
+
+# Mac and Linux file system files
+.DS_Store
+*.swp
+
+# Windows thumbs
+Thumbs.db
+
+# Rider and VS Code workspace settings
+*.code-workspace
+
+# Test results
+TestResults/
+
+# Coverage reports
+coverage/
+
+# Azure Pipelines
+.azure-pipelines/
+
+# Docker files
+docker-compose.override.yml
