@@ -1,0 +1,15 @@
+/home/yetalon/projects/data_struct/dispatchcal_proj3/bin/Debug/net9.0/dispatchcal_proj3
+/home/yetalon/projects/data_struct/dispatchcal_proj3/bin/Debug/net9.0/dispatchcal_proj3.deps.json
+/home/yetalon/projects/data_struct/dispatchcal_proj3/bin/Debug/net9.0/dispatchcal_proj3.runtimeconfig.json
+/home/yetalon/projects/data_struct/dispatchcal_proj3/bin/Debug/net9.0/dispatchcal_proj3.dll
+/home/yetalon/projects/data_struct/dispatchcal_proj3/bin/Debug/net9.0/dispatchcal_proj3.pdb
+/home/yetalon/projects/data_struct/dispatchcal_proj3/obj/Debug/net9.0/dispatchcal_proj3.GeneratedMSBuildEditorConfig.editorconfig
+/home/yetalon/projects/data_struct/dispatchcal_proj3/obj/Debug/net9.0/dispatchcal_proj3.AssemblyInfoInputs.cache
+/home/yetalon/projects/data_struct/dispatchcal_proj3/obj/Debug/net9.0/dispatchcal_proj3.AssemblyInfo.cs
+/home/yetalon/projects/data_struct/dispatchcal_proj3/obj/Debug/net9.0/dispatchcal_proj3.csproj.CoreCompileInputs.cache
+/home/yetalon/projects/data_struct/dispatchcal_proj3/obj/Debug/net9.0/dispatchcal_proj3.sourcelink.json
+/home/yetalon/projects/data_struct/dispatchcal_proj3/obj/Debug/net9.0/dispatchcal_proj3.dll
+/home/yetalon/projects/data_struct/dispatchcal_proj3/obj/Debug/net9.0/refint/dispatchcal_proj3.dll
+/home/yetalon/projects/data_struct/dispatchcal_proj3/obj/Debug/net9.0/dispatchcal_proj3.pdb
+/home/yetalon/projects/data_struct/dispatchcal_proj3/obj/Debug/net9.0/dispatchcal_proj3.genruntimeconfig.cache
+/home/yetalon/projects/data_struct/dispatchcal_proj3/obj/Debug/net9.0/ref/dispatchcal_proj3.dll

@@ -8,19 +8,19 @@
     "net9.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Dukef\\.nuget\\packages\\": {}
+    "/home/yetalon/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Dukef\\projects\\unix\\dispatchcal_proj3\\dispatchcal_proj3.csproj",
+      "projectUniqueName": "/home/yetalon/projects/data_struct/dispatchcal_proj3/dispatchcal_proj3.csproj",
       "projectName": "dispatchcal_proj3",
-      "projectPath": "C:\\Users\\Dukef\\projects\\unix\\dispatchcal_proj3\\dispatchcal_proj3.csproj",
-      "packagesPath": "C:\\Users\\Dukef\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Dukef\\projects\\unix\\dispatchcal_proj3\\obj\\",
+      "projectPath": "/home/yetalon/projects/data_struct/dispatchcal_proj3/dispatchcal_proj3.csproj",
+      "packagesPath": "/home/yetalon/.nuget/packages/",
+      "outputPath": "/home/yetalon/projects/data_struct/dispatchcal_proj3/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Dukef\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "/home/yetalon/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net9.0"
@@ -65,7 +65,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.202/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/home/yetalon/.dotnet/sdk/9.0.203/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
