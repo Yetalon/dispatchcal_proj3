@@ -3,7 +3,7 @@ namespace dispatchcal_proj3;
 public class Operations
 {
     public Dictionary<string, Func<double, double, double>> DispatchTable { get; set; }
-
+    public Dictionary<string, int> Emdas { get; set; }
     public int ans;
 
     public Operations()
@@ -16,6 +16,14 @@ public class Operations
             { "/", Divide },
             { "%", Mod },
             { "^", Exponentiate }
+        };
+        Emdas = new(){
+            { "+", 1},
+            { "-", 1},
+            { "*", 2},
+            { "/", 2},
+            { "%", 2},
+            { "^", 3},
         };
     }
 
